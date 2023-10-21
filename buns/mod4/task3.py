@@ -6,4 +6,4 @@ def euclid(a, b):
     return euclid(b, a % b)
 
 
-print(euclid(10, 15))
+print(euclid(14, 21))
