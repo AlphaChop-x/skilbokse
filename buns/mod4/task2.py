@@ -7,4 +7,4 @@ def pow(a, n):
         return pow(a * a, n // 2)
 
 
-print(pow(3, 4))
+print(pow(5, 5))
