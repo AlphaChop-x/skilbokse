@@ -6,4 +6,4 @@ def chars(chars):
     return "Есть равные и неравные числа"
 
 
-print(chars([1, 2, 3]))
+print(chars([5, 60, 10]))
